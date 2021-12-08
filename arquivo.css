@@ -1,0 +1,20 @@
+body{
+    background-color: lightpink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    margin: 20px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 16pt;
+    text-align: center;
+     background-color: aliceblue;
+    color: ;
+
+}
+img{
+    width: 290px;
+    height: 290px;
+    border: 10px solid black;
+    border-radius: 10%;
+}
